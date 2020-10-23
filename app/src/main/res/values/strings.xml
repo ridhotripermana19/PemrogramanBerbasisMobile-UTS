@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tugas Tengah Semester</string>
+    <string name="txt_name">Nama</string>
+    <string name="txt_studentId">Nim</string>
+    <string name="txt_email">Email</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iv_profilePicture_desc">Photo Profil User</string>
+    <string name="hintEnterMatkul">Masukan Mata Kuliah</string>
+    <string name="detail">Detail</string>
+    <string name="hint_et_courseName">Masukan Nama Matakuliah</string>
+    <string name="add">Tambah</string>
+    <string name="dlgMessage">Silahkan tambahkan mata kuliah anda</string>
+    <string name="tv_detailText">Detail</string>
+    <string name="listCourseTitle">Daftar Mata Kuliah</string>
+    <string name="courseDetailTitle">Detail Mata Kuliah</string>
+    <string name="addCourseTitle">Tambah Mata Kuliah</string>
+    <string name="course_name">Nama Mata Kuliah</string>
+    <string name="course_name_hint">Silahkan Masukkan Nama Mata Kuliah</string>
+    <string name="encounter">Pertemuan</string>
+    <string name="encounter_hint">Silahkan Masukkan Pertemuan</string>
+    <string name="dueDate">Batas Waktu</string>
+    <string name="dueDate_hint">Silahkan Masukkan Batas Waktu</string>
+    <string name="save">simpan</string>
+    <string name="back">Kembali</string>
+    <string name="detail_courseName">Mata Kuliah</string>
+    <string name="logo_stmik_akakom">Logo Stmik Akakom</string>
+</resources>
